@@ -16,7 +16,7 @@ You will then be requested to enter your full local file path to the problem set
 
 ## Objective
 
-The aim of this project is to build a fast and relaible solver capable of solving linear feasibility (and more genrally, LP) problems. Further details are given in the final report on this project.
+The aim of this project is to build a fast and relaible solver capable of solving linear feasibility (and more genrally, LP) problems. Further details are given in the final report on this project. See solving-lp-problems-fast-and-reliably.pdf
 
 ## Approach
 
